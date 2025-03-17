@@ -43,3 +43,5 @@ callouts:
     color: red
   authorship:
     color: yellow
+  resource:
+    color: blue
