@@ -3,7 +3,7 @@ title: Home
 layout: home
 nav_order: 1
 ---
-# Legal Subject Guide
+# Subject Guide: Criminal & Civil Liability in Sports
 
 {: .authorship }
 > By Kyla McCallum and Elina Keinaenen\
