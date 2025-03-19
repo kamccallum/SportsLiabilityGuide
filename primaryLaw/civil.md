@@ -5,3 +5,28 @@ nav_order: 2
 parent: Primary Law
 ---
 # Civil Law
+## Statutes
+> *Negligence Act*, RSBC 1996, c 333, [https://canlii.ca/t/53j4q](https://canlii.ca/t/53j4q)
+{: .resource } 
+## Case Law
+
+### Finding Aids
+
+> *Canadian Abridgment Digests*
+{: .resource }
+
+The *Canadian Abridgment Digests* helps legal professionals and researchers locate case law by legal topic and determine how those cases have been treated by other courts. Access through [LawSource](https://resources.library.ubc.ca/page.php?details=lawsource&id=2653). 
+
+> **TOR.XV.8.e.ii Voluntary acceptance of risk**
+- TOR.XV Negligence 
+    - TOR.XV.8 Defences 
+        - TOR.XV.8.e Volenti non fit injuria 
+            - TOR.XV.8.e.ii Voluntary acceptance of risk 
+
+> **TOR.XIX.2.c.iii Sporting facilities**
+- TOR.XIX Specific forms of liability
+    - TOR.XIX.2 Occupiers' liability
+        - TOR.XIX.2.c Particular situations
+            - TOR.XIX.2.c.iii Sporting facilities
+
+### Key Cases
