@@ -9,6 +9,8 @@ parent: Primary Law
 > *Criminal Code*, RSC 1985, c C-46, [https://canlii.ca/t/56g1z](https://canlii.ca/t/56g1z)
 {: .resource }
 
+> Section 14: Consent to death
+
 > Section 265(4): Accused’s belief as to consent
 
 ## Case Law
@@ -32,5 +34,12 @@ The *Canadian Abridgment Digests* helps legal professionals and researchers loca
 
 
 ### Key Cases
-> *R. v. Ciccarelli*, 1989 CanLII 7205 (ON SC), [https://canlii.ca/t/gc0mt](https://canlii.ca/t/gc0mt)
+
+> *R. v. Cey*, 1989 CanLII 283 (SK CA), [https://canlii.ca/t/1pfmr](https://canlii.ca/t/1pfmr)
+{: .resource }
+
+>*R. v. McSorley*, 2000 BCPC 116 (CanLII), [https://canlii.ca/t/5l69](https://canlii.ca/t/5l69)
+{: .resource }
+
+>*R. v. Bertuzzi*, 2004 BCPC 472 (CanLII), [https://canlii.ca/t/1jpw8](https://canlii.ca/t/1jpw8)
 {: .resource }

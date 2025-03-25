@@ -30,3 +30,9 @@ The *Canadian Abridgment Digests* helps legal professionals and researchers loca
             - TOR.XIX.2.c.iii Sporting facilities
 
 ### Key Cases
+
+>*Crocker v. Sundance Northwest Resorts Ltd.*, 1988 CanLII 45 (SCC), [1988] 1 SCR 1186, [https://canlii.ca/t/1ftcw](https://canlii.ca/t/1ftcw)
+{: .resource }
+
+> Kempf v. Nguyen, 2015 ONCA 114 (CanLII), [https://canlii.ca/t/ggbv0](https://canlii.ca/t/ggbv0)
+{: .resource }
