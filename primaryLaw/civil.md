@@ -42,10 +42,12 @@ The *Canadian Abridgment Digests* helps legal professionals and researchers loca
 >*Crocker v. Sundance Northwest Resorts Ltd.*, 1988 CanLII 45 (SCC), [1988] 1 SCR 1186, [https://canlii.ca/t/1ftcw](https://canlii.ca/t/1ftcw)
 {: .resource }
 
-> *Kempf v. Nguyen*, 2015 ONCA 114 (CanLII), [https://canlii.ca/t/ggbv0](https://canlii.ca/t/ggbv0)
-{: .resource }
+A visibly inebriated man entered an inherently dangerous tube racing competition. He broke his neck, rendering him quadriplegic, and argued that the defendent company had been negligent. The defendent relied on pleas of volenti and contributory negligence. The Ontario High Court of Justice ruled that the defendent had owed a duty to warn the plaintiff, awarding $155,000 in damages with a reduction for contributory negligence. The Ontario Court of Appeal reversed this decision, considering the plaintiff to be solely responsible for his own injury. The Supreme Court of Canada restored the trial judgement and ordered a new trial to determine quantum.
+
+> **History:** *Crocker v. Sundance Northwest Resorts Ltd.*, 1983 CanLII 1745 (ON SC), [https://canlii.ca/t/g1d02](https://canlii.ca/t/g1d02); *Crocker v. Sundance Northwest Resorts Ltd.*, 1985 CanLII 2182 (ON CA), [https://canlii.ca/t/g15hw](https://canlii.ca/t/g15hw)
 
 > *Dyke v. British Columbia Amateur Softball Assn.*, 2008 BCCA 3 (CanLII), [https://canlii.ca/t/1vccq](https://canlii.ca/t/1vccq)
 {: .resource }
 
 Plaintiff was a scorekeeper who suffered a head injury from a foul ball. She brought a claim against the defendant under the *Occupiers Liability Act*, as she would have been out of harm's way in the dugout if it hadn't been flooded. Plaintiff alleged that the defendent did not fulfill it's duty to provide a safe place for scorekeeping activities. The British Columbia Supreme Court ruled that the defendent did not breach standard of care, as the association had erected protective fencing. 
+
