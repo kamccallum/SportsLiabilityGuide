@@ -38,11 +38,9 @@ The *Canadian Abridgment Digests* helps legal professionals and researchers loca
 
 ### Key Cases
 
-> *R. v. Cey*, 1989 CanLII 283 (SK CA), [https://canlii.ca/t/1pfmr](https://canlii.ca/t/1pfmr)
+> *R. v. Jobidon*, 1991 CanLII 77 (SCC), [1991] 2 SCR 714, [https://canlii.ca/t/1fskj](https://canlii.ca/t/1fskj)
 {: .resource }
 
->*R. v. McSorley*, 2000 BCPC 116 (CanLII), [https://canlii.ca/t/5l69](https://canlii.ca/t/5l69)
-{: .resource }
+The accused and victim both consented to a fair fist fight which resulted in death and the accused charged with second degree murder. The Ontario Court of Appeal reversed the prior decision: consent to a fist fight is *not* a defence against a charge of assault, with some exceptions in the case of properly-conducted games and sports. The Supreme Court of Canada affirmed this ruling. 
 
->*R. v. Bertuzzi*, 2004 BCPC 472 (CanLII), [https://canlii.ca/t/1jpw8](https://canlii.ca/t/1jpw8)
-{: .resource }
+> **History**: *R. v. Jobidon*, 1987 CanLII 6857 (ON SC), [https://canlii.ca/t/gb99p](https://canlii.ca/t/gb99p), *R. v. Jobidon*, 1988 CanLII 7140 (ON CA), [https://canlii.ca/t/g9l2j](https://canlii.ca/t/g9l2j)
