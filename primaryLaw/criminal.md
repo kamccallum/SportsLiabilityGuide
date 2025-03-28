@@ -44,3 +44,16 @@ The *Canadian Abridgment Digests* helps legal professionals and researchers loca
 The accused and victim both consented to a fair fist fight which resulted in death and the accused charged with second degree murder. The Ontario Court of Appeal reversed the prior decision: consent to a fist fight is *not* a defence against a charge of assault, with some exceptions in the case of properly-conducted games and sports. The Supreme Court of Canada affirmed this ruling. 
 
 > **History**: *R. v. Jobidon*, 1987 CanLII 6857 (ON SC), [https://canlii.ca/t/gb99p](https://canlii.ca/t/gb99p), *R. v. Jobidon*, 1988 CanLII 7140 (ON CA), [https://canlii.ca/t/g9l2j](https://canlii.ca/t/g9l2j)
+
+> *R. v. Bertuzzi*, 2004 BCPC 472 (CanLII), [https://canlii.ca/t/1jpw8](https://canlii.ca/t/1jpw8)
+{: .resource }
+
+An NHL hockey player pled guilty to assault from an incident that occured during a game. The sentence was a conditional discharge. Loss of salary due to an NHL suspension and extensive media attention were mitigating factors.
+
+> *R. v. Ashton*, 2017 ONCJ 585 (CanLII), [https://canlii.ca/t/h5qfb](https://canlii.ca/t/h5qfb)
+> {: .resource }
+
+> *R. v. Miletic*, 2020 BCPC 154 (CanLII), [https://canlii.ca/t/j97jg](https://canlii.ca/t/j97jg)
+> {: .resource }
+
+> "I fail to see how the expectations of a higher level of violence in a professional league, or the physical training and preparation level of the athletes, decreases the need for denunciation and deterrence when the level of violence norms are exceeded, particularly when, if anything, general deterrence will be increased when the case has higher notoriety. That, in effect, says because the victim expects some level of violence, the offender is entitled to the benefit of that expectation even when the offender exceeds that level. Similarly, I fail to see how the lower expectations of violence in a non-professional league, even if true, should result in greater penalty to the offender." (para. 32)
