@@ -53,6 +53,8 @@ An NHL hockey player pled guilty to assault from an incident that occured during
 > *R. v. Ashton*, 2017 ONCJ 585 (CanLII), [https://canlii.ca/t/h5qfb](https://canlii.ca/t/h5qfb)
 > {: .resource }
 
+> "There is a lot of violence in sports like hockey and it is accepted because the athletes know going into each game that there will be violence and that they may be involved in a fight whether they like it or not. By playing the sport at this level, the athletes consent to 'some violence' because they know it is part of the game that they have contracted to play in. The same cannot be said for non-contact or recreational leagues. In these leagues there is no consent to the violence that regularly forms part of the sport at the professional or semi-professional level." (para. 26-27)
+
 > *R. v. Miletic*, 2020 BCPC 154 (CanLII), [https://canlii.ca/t/j97jg](https://canlii.ca/t/j97jg)
 > {: .resource }
 
