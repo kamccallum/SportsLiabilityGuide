@@ -9,6 +9,10 @@ parent: Primary Law
 > *Criminal Code*, RSC 1985, c C-46, [https://canlii.ca/t/56g1z](https://canlii.ca/t/56g1z)
 {: .resource }
 
+Defines most criminal offenses, outlines procedures for investigation and prosecution, and sets out punishments and defenses
+
+**Especially relevant sections:**  
+
 > Section 14: Consent to death
 
 > Section 265(4): Accused’s belief as to consent
