@@ -34,7 +34,7 @@ This volume provides an overview of topics related to sports law. Section IV goe
 
 > Access via [Westlaw](https://resources.library.ubc.ca/page.php?details=lawsource&id=2653)
 
-> *Sanagan's Encyclopedia of Words and Phrases*: **§ V2160 Volenti Non Fit Injuria**
+> *Sanagan's Encyclopedia of Words and Phrases*: **§ V2160 Volenti Non Fit Injuria**  
 > Legal Maxims, 5th Edition, Susan Donahue
 {: .resource }
 
