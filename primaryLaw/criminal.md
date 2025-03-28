@@ -13,9 +13,8 @@ Defines most criminal offenses, outlines procedures for investigation and prosec
 
 **Especially relevant sections:**  
 
-> Section 14: Consent to death
-
-> Section 265(4): Accused’s belief as to consent
+- Section 14: Consent to death
+- Section 265(4): Accused’s belief as to consent
 
 ## Case Law
 ### Finding Aids
