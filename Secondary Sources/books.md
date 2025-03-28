@@ -29,7 +29,13 @@ A general textbook on sports and recreation law in Canada. Chapter 2 provides an
 
 This volume provides an overview of topics related to sports law. Section IV goes over criminal and civil liability in sports. Additionally, the end of the volume provides a glossary of defined terms in legislation related to athletics which can be a great tool for research. 
 
-> *Canadian Encyclopedic Digest*: **§ 48. Volenti Non Fit Injuria**, **Sports § 53**, and **Defences § 228** 
+> *Canadian Encyclopedic Digest*: **§ 48. Volenti Non Fit Injuria**, **§ 53 Sports**, and **§ 228 Defences** 
+{: .resource }
+
+> Access via [Westlaw](https://resources.library.ubc.ca/page.php?details=lawsource&id=2653)
+
+> *Sanagan's Encyclopedia of Words and Phrases*: **§ V2160 Volenti Non Fit Injuria**
+> Legal Maxims, 5th Edition, Susan Donahue
 {: .resource }
 
 > Access via [Westlaw](https://resources.library.ubc.ca/page.php?details=lawsource&id=2653)
