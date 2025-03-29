@@ -8,7 +8,7 @@ parent: Secondary Sources
 
 ## Books
 
-> <img src="/Images/Sports-and-Rec.jpg" style="width:150px; border: solid">  
+> <img src="/SportsLiabilityGuide/Images/Sports-and-Rec.jpg" style="width:150px; border: solid">  
 > *Sports and Recreation Liability Law in Canada*. Lorne Folick, Michael Libby & Paul Dawson (2017) 
 {: .resource }
 
