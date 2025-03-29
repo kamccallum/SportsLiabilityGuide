@@ -47,7 +47,8 @@ Provides a comprehensive statement of the law of Ontario and the four western pr
 - Criminal Law—Defences > Other Defences > Consent > § 228 Contact Sports
 - Torts > Defences > § 48 Volenti Non Fit Injuria
 
-> Access via [Westlaw](https://resources.library.ubc.ca/page.php?details=lawsource&id=2653) (Note: if you enter Westlaw via LawSource, click on Westlaw home to see the homepage in the screenshot)
+> Access via [Westlaw](https://resources.library.ubc.ca/page.php?details=lawsource&id=2653)  
+(Note: if you enter Westlaw via LawSource, click on "Westlaw" in the upper left corner to see the homepage in the screenshot.)
 
 > *Sanagan's Encyclopedia of Words and Phrases, Legal Maxims*. Susan Donahue (5th Edition)
 {: .resource }
