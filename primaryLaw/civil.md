@@ -11,6 +11,8 @@ parent: Primary Law
 
 Determines how damages are divided among multiple wrongdoers, with each party's degree of fault influencing the amount of damages awarded. Provides a partial defense of contributory negligence, meaning if a claimant's own actions contributed to the injury, their damages may be reduced. 
 
+> For further information on the *Negligence Act* and suggested reforms, see ["Report on Contribution after Settlement under the Negligence Act,"](https://www.bcli.org/publication/report-on-contribution-after-settlement-under-the-negligence-act/) British Columbia Law Institute, 2013-12-17
+
 > *Occupiers Liability Act*, RSBC 1996, c 337, [https://canlii.ca/t/51vbv](https://canlii.ca/t/51vbv)
 {: .resource }
 
