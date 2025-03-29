@@ -8,7 +8,7 @@ parent: Secondary Sources
 
 ## Books
 
-> <img src="/SportsLiabilityGuide/Images/Sports-and-Rec.jpg" style="width:150px; border: solid">  
+> <img src="/assets/images/Sports-and-Rec.jpg" style="width:150px; border: solid">  
 > *Sports and Recreation Liability Law in Canada*. Lorne Folick, Michael Libby & Paul Dawson (2017) 
 {: .resource }
 
@@ -16,7 +16,7 @@ This book addresses topics in sports and recreation related liability in Canada,
 
 > Access via [UBC Library](https://go.exlibris.link/8wFwKWMh)
 
-> <img src="/Images/LASR_Web.jpg" style="width:150px; border: solid">  
+> <img src="/assets/images/LASR_Web.jpg" style="width:150px; border: solid">  
 > *Legal Aspects of Sport and Recreation*. Hilary Findlay (2022) 
 {: .resource }
 
@@ -28,7 +28,7 @@ A general textbook on sports and recreation law in Canada. Chapter 2 provides an
 
 > *Halsbury’s Laws of Canada - Athletics*. Jay Brecher (2021 Reissue)
 {: .resource }
-![Screenshot of where to find Halsbury’s Laws of Canada in Lexis Advance](/Images/Halsbury.jpg)
+![Screenshot of where to find Halsbury’s Laws of Canada in Lexis Advance](/assets/images/Halsbury.jpg)
 
 This volume provides an overview of topics related to sports law. Section IV goes over criminal and civil liability in sports. Additionally, the end of the volume provides a glossary of defined terms in legislation related to athletics which can be a great tool for research. 
 
@@ -36,7 +36,7 @@ This volume provides an overview of topics related to sports law. Section IV goe
 
 > *Canadian Encyclopedic Digest* (4th Edition)
 {: .resource }
-![Screenshot of where to find Canadian Encyclopedic Digest in Westlaw](/Images/CED.jpg)
+![Screenshot of where to find Canadian Encyclopedic Digest in Westlaw](/assets/images/CED.jpg)
 
 Provides a comprehensive statement of the law of Ontario and the four western provinces - provincial, federal and common law - as derived from the case law and legislation.
 
@@ -52,7 +52,7 @@ Provides a comprehensive statement of the law of Ontario and the four western pr
 
 > *Sanagan's Encyclopedia of Words and Phrases, Legal Maxims*. Susan Donahue (5th Edition)
 {: .resource }
-![Screenshot of where to find Sanagan's Encyclopedia of Words and Phrases in LawSource](/Images/Sanagan.jpg)
+![Screenshot of where to find Sanagan's Encyclopedia of Words and Phrases in LawSource](/assets/images/Sanagan.jpg)
 
 The publication is an alphabetical listing of words and phrases that have been interpreted in Canadian legal decisions. 
 
