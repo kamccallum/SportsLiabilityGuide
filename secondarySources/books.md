@@ -63,4 +63,6 @@ The publication is an alphabetical listing of words and phrases that have been i
 - § D9420 Duty of Care
 - § C12560 Contributory Negligence
 
-> Access via [Westlaw LawSource](https://resources.library.ubc.ca/page.php?details=lawsource&id=2653)
+> Access via [Westlaw LawSource](https://resources.library.ubc.ca/page.php?details=lawsource&id=2653)  
+
+*With thanks to Queen University's [research guide on sports law](https://guides.library.queensu.ca/Sports-Law/Introductory-Sports-Law)*
