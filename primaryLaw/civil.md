@@ -51,3 +51,9 @@ A visibly inebriated man entered an inherently dangerous tube racing competition
 
 Plaintiff was a scorekeeper who suffered a head injury from a foul ball. She brought a claim against the defendant under the *Occupiers Liability Act*, as she would have been out of harm's way in the dugout if it hadn't been flooded. Plaintiff alleged that the defendent did not fulfill it's duty to provide a safe place for scorekeeping activities. The British Columbia Supreme Court ruled that the defendent did not breach standard of care, as the association had erected protective fencing. 
 
+> *Cox v. Miller*, 2024 BCCA 3 (CanLII), [https://canlii.ca/t/k229k](https://canlii.ca/t/k229k)
+{: .resource }
+
+A slide tackle in a recreational soccer league was deemed dangerous and outside the realm of expected conduct. The tackler was held liable for injuries, and this decision was affirmed by the British Columbia Court of Appeal.
+
+> **History**: *Miller v Cox*, 2023 BCSC 349 (CanLII), [https://canlii.ca/t/jw1v8](https://canlii.ca/t/jw1v8)

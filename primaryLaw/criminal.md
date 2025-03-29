@@ -48,14 +48,16 @@ The accused and victim both consented to a fair fist fight which resulted in dea
 > *R. v. Bertuzzi*, 2004 BCPC 472 (CanLII), [https://canlii.ca/t/1jpw8](https://canlii.ca/t/1jpw8)
 {: .resource }
 
-An NHL hockey player pled guilty to assault from an incident that occured during a game. The sentence was a conditional discharge. Loss of salary due to an NHL suspension and extensive media attention were mitigating factors.
+An NHL hockey player pled guilty to assault from an incident that occured during a game. The sentence was a conditional discharge. Loss of salary due to a NHL suspension and extensive media attention were mitigating factors.
 
 > *R. v. Ashton*, 2017 ONCJ 585 (CanLII), [https://canlii.ca/t/h5qfb](https://canlii.ca/t/h5qfb)
 {: .resource }
 
-> "There is a lot of violence in sports like hockey and it is accepted because the athletes know going into each game that there will be violence and that they may be involved in a fight whether they like it or not. By playing the sport at this level, the athletes consent to 'some violence' because they know it is part of the game that they have contracted to play in. The same cannot be said for non-contact or recreational leagues. In these leagues there is no consent to the violence that regularly forms part of the sport at the professional or semi-professional level." (para. 26-27)
+Accused pled guilty to assaulting the victim with his goalie stick during a game of recreational hockey. He was sentenced to a conditional sentence of 90 days' imprisonment followed by two years' probation. The decision did not follow sentencing principles established for professional and semi-professional leagues, as this recreational game was non-contact. The judge held that non-contact leagues do not consent to the same level of violence, and the athletes involved in a recreational game are in a different physical and mental state than professionals.
 
-> *R. v. Miletic*, 2020 BCPC 154 (CanLII), [https://canlii.ca/t/j97jg](https://canlii.ca/t/j97jg)
+> *R. v. Miletic*, 2020 BCPC 154 (CanLII), [https://canlii.ca/t/j97jg](https://canlii.ca/t/j97jg) at para 32.
 {: .resource }
 
-> "I fail to see how the expectations of a higher level of violence in a professional league, or the physical training and preparation level of the athletes, decreases the need for denunciation and deterrence when the level of violence norms are exceeded, particularly when, if anything, general deterrence will be increased when the case has higher notoriety. That, in effect, says because the victim expects some level of violence, the offender is entitled to the benefit of that expectation even when the offender exceeds that level. Similarly, I fail to see how the lower expectations of violence in a non-professional league, even if true, should result in greater penalty to the offender." (para. 32)
+Accused punched the victim in the face, breaking his orbital bone, during a soccer game. In part due to his lack of criminal record and numerous letters of support, accused was sentenced to conditional discharge and one year of probation. The decision disagrees with *R. v. Ashton*:
+
+> "I fail to see how the expectations of a higher level of violence in a professional league, or the physical training and preparation level of the athletes, decreases the need for denunciation and deterrence when the level of violence norms are exceeded, particularly when, if anything, general deterrence will be increased when the case has higher notoriety. That, in effect, says because the victim expects some level of violence, the offender is entitled to the benefit of that expectation even when the offender exceeds that level. Similarly, I fail to see how the lower expectations of violence in a non-professional league, even if true, should result in greater penalty to the offender." 
